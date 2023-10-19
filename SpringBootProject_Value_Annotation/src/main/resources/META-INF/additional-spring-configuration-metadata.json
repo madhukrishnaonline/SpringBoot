@@ -1,0 +1,37 @@
+/*{"properties": [
+  {
+    "name": "menu.puriPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.puriPrice'"
+  },
+  {
+    "name": "menu.idlyPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.idlyPrice'"
+  },
+  {
+    "name": "menu.idlyPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'menu.idlyPrice'"
+  },
+  {
+    "name": "hotel.contact",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.contact'"
+  },
+  {
+    "name": "hotel.address",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.address'"
+  },
+  {
+    "name": "hotel.name",
+    "type": "java.lang.String",
+    "description": "A description for 'hotel.name'"
+  },
+  {
+    "name": "customer.name",
+    "type": "java.lang.String",
+    "description": "A description for 'customer.name'"
+  }
+]}*/
