@@ -1,0 +1,5 @@
+Note :: if we configure both application.properties file and application.yml file in a project,
+then application.properties will overrides the application.yml file
+
+1)Fast Development wise Application.yml file will be good.
+2)Performance wise application.properties will be good.

@@ -1,0 +1,27 @@
+#YML file
+#Employee Info
+org: 
+  nit: 
+    e-id: 1234
+    e-name: krishna
+    e-sal: 30000
+    fav-food:
+    - Chicken Biriyani
+    - Mutton Biriyani
+    - Prawns Biriyani
+    fav-places:
+    - Maldives
+    - Dargeeling
+    - Switzerland
+    phone-no:
+    - 9876543210
+    - 1234567890
+    - 8976543210
+    id-details:
+      aadhar: 365699903546
+      voter: 678dbg78468
+      pan: llikj5664r
+    company:
+      c-id: 8976
+      c-name: Intel
+      c-address: Hyderabad
