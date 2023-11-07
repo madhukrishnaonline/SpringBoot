@@ -13,6 +13,5 @@ public class SpringBootProjectYmlPropertiesApplication {
 		ApplicationContext context = SpringApplication.run(SpringBootProjectYmlPropertiesApplication.class, args);
 	   Employee employee = context.getBean("emp",Employee.class);
 	   System.out.println(employee);
-	}
-
-}
+	}//main
+}//class
