@@ -1,0 +1,4 @@
+#Activate Profiles
+spring:
+  profiles:
+    active: prod

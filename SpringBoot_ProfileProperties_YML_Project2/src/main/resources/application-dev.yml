@@ -1,0 +1,13 @@
+#Datasource cfg
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.driver
+    url: jdbc:mysql:///ntspbms715db
+    username: root
+    password: root
+    dbcp2:
+      max-total: 100
+      max-wait-millis: 1000
+      min-idle: 10
+    #Specify datasource type (apachedbcp2)
+    type: org.apache.commons.dbcp2.BasicDataSource

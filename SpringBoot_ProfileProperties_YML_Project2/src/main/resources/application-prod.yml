@@ -1,0 +1,11 @@
+#Datasource cfg
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: java
+    password: java
+    hikari:
+      connection-timeout: 60000
+      maximum-pool-size: 100
+      minimum-idle: 10

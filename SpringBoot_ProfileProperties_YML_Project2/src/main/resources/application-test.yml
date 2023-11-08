@@ -1,0 +1,11 @@
+c3p0:
+  maxsize: 10
+  minsize: 10
+  
+#Datasource cfg
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.driver
+    password: root
+    url: jdbc:mysql:///ntspbms715db
+    username: root

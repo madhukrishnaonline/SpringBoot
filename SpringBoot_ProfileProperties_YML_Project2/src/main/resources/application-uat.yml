@@ -1,0 +1,14 @@
+#Datasource cfg
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: java
+    password: java
+    oracleucp:
+      connection-wait-timeout: 600000
+      initial-pool-size: 10
+      max-pool-size: 100
+    
+    #Specify datasource type (apachedbcp2)
+    type: oracle.ucp.jdbc.PoolDataSourceImpl
